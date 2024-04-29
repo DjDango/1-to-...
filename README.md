@@ -1,1 +1,3 @@
 # 1-to-...
+
+This project generates numbers from 1 to whatever you want, in how many seconds you want. But be careful not to go to big numbers otherwise it will go for very long.
